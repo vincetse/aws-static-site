@@ -94,3 +94,5 @@ tags
 [._]*.un~
 
 # End of https://www.gitignore.io/api/vim,linux,macos,terraform
+
+*.zip
